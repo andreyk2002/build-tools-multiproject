@@ -1,0 +1,4 @@
+rootProject.name = 'mutilproject'
+include 'core'
+include 'api'
+
